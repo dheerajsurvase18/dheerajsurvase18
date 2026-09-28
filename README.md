@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Dheeraj Survase
 
-<!--
-**dheerajsurvase18/dheerajsurvase18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Electronics & Computer Engineering (ECE) Student  
+💻 Currently learning Programming, Electronics & Computer Science  
+🚀 Exploring C, Python, Git & GitHub  
+📍 Pune, India
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a first-year ECE student passionate about learning how
+electronics and software work together.
+
+I'm currently building my fundamentals in programming and
+electronics and will be sharing my learning journey and projects
+here on GitHub.
+
+## 🛠️ Currently Learning
+
+- C Programming
+- Python
+- Git & GitHub
+- Basic Electronics
+- Problem Solving
+- Computer Science Fundamentals
+
+## 🚀 Goals
+
+- Build my first programming projects
+- Learn Data Structures & Algorithms
+- Explore Electronics & Embedded Systems
+- Build real-world ECE projects
+- Develop a strong portfolio
+
+## 📂 Projects
+
+Projects coming soon... 🚀
+
+## 📫 Connect With Me
+
+- LinkedIn: [My LinkedIn](www.linkedin.com/in/dheeraj-survase-537772439)
+- GitHub: [@dheerajsurvase18](https://github.com/dheerajsurvase18)
+
+
+⭐ Thanks for visiting my profile!
