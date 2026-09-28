@@ -37,7 +37,7 @@ Projects coming soon... 🚀
 
 ## 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn](www.linkedin.com/in/dheeraj-survase-537772439)
+- LinkedIn: (www.linkedin.com/in/dheeraj-survase-537772439)
 - GitHub: [@dheerajsurvase18](https://github.com/dheerajsurvase18)
 
 
